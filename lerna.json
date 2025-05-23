@@ -1,8 +1,9 @@
 {
-  "version": "independent",  
+  "version": "independent",
   "command": {
     "version": {
-      "ignoreChanges": ["**/*.md"]  
+      "conventionalCommits": true,
+      "preid": "alpha"
     }
   }
 }
